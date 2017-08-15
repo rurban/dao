@@ -23,11 +23,12 @@ where PLATFORM can be one of the followings:
 
 * linux
 * macosx
+* ios
 * freebsd
 * openbsd
 * mingw
 * minix
-* haiku
+* haiku / beos
 
 Then run the following to install:
 
